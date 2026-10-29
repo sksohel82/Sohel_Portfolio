@@ -3,8 +3,7 @@
 
 A responsive personal portfolio website showcasing my background, skills, projects, and contact details as a Java Full Stack developer.
 
-🔗 **Live Site:** https://sksohel82.github.io/
-
+🔗 **Live Site:** (https://sksohel82.github.io/Sohel_Portfolio/)
 ## About
 
 I'm a Full-Stack developer trainee with a foundation in Java, Spring Boot, Hibernate, SQL, and modern front-end technologies. I build RESTful APIs and database-driven web applications, and I'm looking for an entry-level Full Stack Developer role.
